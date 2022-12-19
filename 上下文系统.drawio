@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T09:17:02.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.4.1" etag="EXWcuZoNl_CyxVQuOB_H" type="github"><diagram id="GOwV3BTlTZxrZQk5q-vH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-19T11:30:13.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1rLTE7az_uytvgawv2Zs" version="20.4.1" type="github">
+  <diagram id="GOwV3BTlTZxrZQk5q-vH" name="第 1 页">
+    <mxGraphModel dx="946" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="10" width="680" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-2" value="福费廷前置系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-3" value="ESB&lt;br&gt;（企业服务总线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oe8eYKHcRqLVJrgu-Rlg-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-5" value="渠道管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="348" y="410" width="119" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-7" value="新一代国际结算系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-8" value="区块链服务平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="521" y="410" width="123" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oe8eYKHcRqLVJrgu-Rlg-3" target="oe8eYKHcRqLVJrgu-Rlg-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oe8eYKHcRqLVJrgu-Rlg-3" target="oe8eYKHcRqLVJrgu-Rlg-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357.5" y="410" as="sourcePoint" />
+            <mxPoint x="358.92857142857133" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-13" value="ESB&lt;br&gt;（企业服务总线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="318" y="121" width="215" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oe8eYKHcRqLVJrgu-Rlg-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="290" as="sourcePoint" />
+            <mxPoint x="425" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oe8eYKHcRqLVJrgu-Rlg-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="181" as="sourcePoint" />
+            <mxPoint x="425" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-18" value="EDB&lt;br&gt;（企业数据总线）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-19" value="渠道管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="191" y="411" width="119" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oe8eYKHcRqLVJrgu-Rlg-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oe8eYKHcRqLVJrgu-Rlg-18" target="oe8eYKHcRqLVJrgu-Rlg-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417.5" y="380" as="sourcePoint" />
+            <mxPoint x="416.2692307692307" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
