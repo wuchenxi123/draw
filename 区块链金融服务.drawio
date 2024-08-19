@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_ynqaItv0I7GKupnkFLt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="20" width="740" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-2" value="开&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;放&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;共&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;享&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-2" value="开&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;放&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;共&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;享&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="40" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-3" value="合&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;力&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;共&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-3" value="合&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;力&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;共&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="120" width="40" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="530" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-5" value="一平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-5" value="一平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="325" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-6" value="金&lt;div&gt;融&lt;/div&gt;&lt;div&gt;区&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;div&gt;链&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;平&lt;/div&gt;&lt;div&gt;台&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-6" value="金&lt;div&gt;融&lt;/div&gt;&lt;div&gt;区&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;div&gt;链&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;平&lt;/div&gt;&lt;div&gt;台&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="285" width="28" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="188" y="285" width="492" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="290" width="470" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="335" width="470" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="258" y="300" width="82" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_ynqaItv0I7GKupnkFLt-11" value="业务支撑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_ynqaItv0I7GKupnkFLt-11" value="业务支撑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="198" y="295" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
