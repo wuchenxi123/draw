@@ -166,6 +166,9 @@
         <mxCell id="-gDNM5G--wo878solXUZ-113" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;" vertex="1" parent="1">
           <mxGeometry x="380" y="439" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-114" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Resource_Guard.svg;" vertex="1" parent="1">
+          <mxGeometry x="720" y="90" width="56.64" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
