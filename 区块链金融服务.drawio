@@ -275,6 +275,237 @@
         <mxCell id="-gDNM5G--wo878solXUZ-163" value="监管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="102.32999999999993" y="84.85" width="41" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-164" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-7.07" width="930" height="507.07" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-165" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="420" width="750" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-166" value="边缘感知层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="860" y="425" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-167" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="420" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-168" value="物联网系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="418" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-169" value="&lt;div&gt;RFID传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="980" y="450" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-170" value="&lt;div&gt;GPS传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="450" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-171" value="&lt;div&gt;AGV自动引导&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="450" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-172" value="&lt;div&gt;AS/RS设备&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="450" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-173" value="&lt;div&gt;温湿度传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="450" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-174" value="&lt;div&gt;。。。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="451.5" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-175" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="310" width="750" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-176" value="机器信任层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="310" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-178" value="区块链服务平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1338" y="305" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-179" value="&lt;div&gt;联盟管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="980" y="370" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-180" value="&lt;div&gt;节点管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="370" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-181" value="&lt;div&gt;证书&lt;span style=&quot;background-color: initial;&quot;&gt;管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="370" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-182" value="&lt;div&gt;合约&lt;span style=&quot;background-color: initial;&quot;&gt;管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="370" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-183" value="&lt;div&gt;通道&lt;span style=&quot;background-color: initial;&quot;&gt;管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="370" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-184" value="&lt;div&gt;运维监控&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="371.5" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-185" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-187" value="&lt;div&gt;分布式身份管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="980" y="330" width="250" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-189" value="&lt;div&gt;数据隐私保函&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="330" width="250" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-191" value="&lt;div&gt;跨链服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="330" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-193" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="230" width="750" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-194" value="资产应用层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="235" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-196" value="仓单系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="228" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-197" value="&lt;div&gt;数字身份服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="980" y="260" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-198" value="&lt;div&gt;仓单存证服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="260" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-199" value="仓单流转服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="260" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-200" value="仓单融资服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="260" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-201" value="仓单溯源服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="260" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-202" value="&lt;div&gt;。。。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="261.5" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-203" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="233" width="23.49" height="21.08" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-213" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="143" width="750" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-214" value="三方系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="860" y="146.75" width="100" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-223" value="&lt;div&gt;交易所平台&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="980" y="148" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-224" value="供应链管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="148" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-225" value="保险系统平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="148" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-226" value="仓储系统平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="148" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-227" value="仓单溯源服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="148" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-228" value="仓单融资服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="149.5" width="90" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-230" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="970" y="187" width="750" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-231" value="信贷系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="194" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-232" value="新一代国际结算系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="194" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-233" value="物联网平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="194" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-234" value="U链供应链系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="194" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-235" value="企业网银" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="194" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-236" value="&lt;div&gt;。。。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="194" width="90" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-237" value="银行应用层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="860" y="187" width="100" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-239" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;商&lt;div&gt;业&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;银&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;行&lt;/span&gt;&lt;/div&gt;&lt;div&gt;金&lt;/div&gt;&lt;div&gt;融&lt;/div&gt;&lt;div&gt;科&lt;/div&gt;&lt;div&gt;技&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;&lt;div&gt;平&lt;/div&gt;&lt;div&gt;台&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="820" y="50" width="30" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-240" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA+CAYAAACbQR1vAAAMaGlDQ1BJQ0MgUHJvZmlsZQAASImVVwdUU8kanluSkJDQAhGQEnpHpBcpIbQAAlIFGyEJJJQYEoKKHV1UcK2IKFZ0VcS2ugKyFsReFsHeFwsKyrqoi6KovAkJ6LqvnPefM3e+fPPP3+5M7gwAmn1ciSQX1QIgT1wgjQ8PZo5PTWOSOgECtAEN2ANHLk8mYcXFRQMoQ/3f5d1NqA3lmpPC1j/H/6vo8AUyHgDIRIgz+DJeHsRNAOAbeBJpAQBEBW8xrUCiwPMg1pXCACEuV+AsJd6lwBlKfHRQJzGeDXErAGpULleaBYDGfcgzC3lZ0I7GJ4hdxHyRGABNR4gDeEIuH2JF7I55eVMVuBJiW6gvgRjGA7wzvrGZ9Tf7GcP2udysYazMa1DUQkQySS53xv9Zmv8tebnyIR/WsFGF0oh4Rf6whrdzpkYpMBXibnFGTKyi1hD3ifjKugOAUoTyiCSlPmrEk7Fh/QADYhc+NyQKYiOIw8S5MdEqPiNTFMaBGK4WdLqogJMIsT7EiwWy0ASVzhbp1HiVL7QuU8pmqfjzXOmgX4Wvh/KcJJbK/huhgKOyj2kUCRNTIKZAbFkoSo6BWANiZ1lOQpRKZ0yRkB0zpCOVxyvit4Q4XiAOD1baxwozpWHxKv3SPNlQvtgWoYgTo8IHC4SJEcr6YKd53MH4YS5Yq0DMShqyI5CNjx7KhS8ICVXmjnUKxEkJKjt9koLgeOVcnCLJjVPp4+aC3HAFbw6xu6wwQTUXTy6Ai1NpH8+UFMQlKuPEi7K5kXHKePAVIBqwQQhgAjlsGWAqyAailu76bvhLORIGuEAKsoAAOKmYoRkpgyNi+EwAReAPiARANjwveHBUAAoh/3mYVT6dQObgaOHgjBzwDOI8EAVy4W/54CzxsLdk8BQyon9458LGg/HmwqYY//f8EPuVYUEmWsXIhzwyNYc0iaHEEGIEMYxohxviAbgfHg2fQbC54t64z1AeX/UJzwhthMeEG4R2wp0pomLpd1GOBe3QfpiqFhnf1gK3hjY98GDcH1qHlnEGbgiccHfoh4UHQs8ekGWr4lZUhfmd7b9l8M3bUOmRXcgoeQQ5iGz7/UwNew2PYSuKWn9bH2WsGcP1Zg+PfO+f/U31+bCP+l4TW4wdws5hJ7EL2FGsHjCxE1gDdhk7psDDq+vp4Ooa8hY/GE8OtCP6hz+uyqeikjKXWpcul0/KsQLB9ALFxmNPlcyQirKEBUwW/DoImBwxz9mR6eri6g6A4luj/Pt6yxj8hiCMi1+5/CYAfEohmfWV41oAcOQZAPR3XzmLN3DbrADgWCtPLi1UcrjiQYD/EppwpxkAE2ABbGE+rsAT+IEgEAoiQSxIBKlgMqyyEK5zKZgGZoH5oASUgRVgDVgPNoNtYBfYCw6CenAUnARnwSXQCm6Ae3D1dICXoAe8A/0IgpAQGkJHDBBTxApxQFwRbyQACUWikXgkFUlHshAxIkdmIQuQMmQVsh7ZitQgPyNHkJPIBaQNuYM8QrqQN8hHFEOpqC5qjFqjo1BvlIVGoYnoJDQLzUeL0IXoMrQSrUb3oHXoSfQSegNtR1+ivRjA1DEGZoY5Yd4YG4vF0rBMTIrNwUqxCqwa24c1wvd8DWvHurEPOBGn40zcCa7gCDwJ5+H5+Bx8Kb4e34XX4afxa/gjvAf/QqARjAgOBF8ChzCekEWYRighVBB2EA4TzsC91EF4RyQSGUQbohfci6nEbOJM4lLiRuJ+YhOxjfiE2EsikQxIDiR/UiyJSyoglZDWkfaQTpCukjpIfWrqaqZqrmphamlqYrVitQq13WrH1a6qPVfrJ2uRrci+5FgynzyDvJy8ndxIvkLuIPdTtCk2FH9KIiWbMp9SSdlHOUO5T3mrrq5uru6jPk5dpD5PvVL9gPp59UfqH6g6VHsqmzqRKqcuo+6kNlHvUN/SaDRrWhAtjVZAW0aroZ2iPaT1adA1nDU4GnyNuRpVGnUaVzVeaZI1rTRZmpM1izQrNA9pXtHs1iJrWWuxtbhac7SqtI5o3dLq1aZrj9aO1c7TXqq9W/uCdqcOScdaJ1SHr7NQZ5vOKZ0ndIxuQWfTefQF9O30M/QOXaKujS5HN1u3THevbotuj56Onrtest50vSq9Y3rtDIxhzeAwchnLGQcZNxkfRxiPYI0QjFgyYt+IqyPe64/UD9IX6Jfq79e/of/RgGkQapBjsNKg3uCBIW5obzjOcJrhJsMzht0jdUf6jeSNLB15cORdI9TI3ijeaKbRNqPLRr3GJsbhxhLjdcanjLtNGCZBJtkm5SbHTbpM6aYBpiLTctMTpi+YekwWM5dZyTzN7DEzMoswk5ttNWsx6ze3MU8yLzbfb/7AgmLhbZFpUW7RbNFjaWo51nKWZa3lXSuylbeV0Gqt1Tmr99Y21inWi6zrrTtt9G04NkU2tTb3bWm2gbb5ttW21+2Idt52OXYb7VrtUXsPe6F9lf0VB9TB00HksNGhzZHg6OModqx2vOVEdWI5FTrVOj1yZjhHOxc71zu/GmU5Km3UylHnRn1x8XDJddnucm+0zujI0cWjG0e/cbV35blWuV53o7mFuc11a3B77e7gLnDf5H7bg+4x1mORR7PHZ08vT6nnPs8uL0uvdK8NXre8db3jvJd6n/ch+AT7zPU56vPB19O3wPeg759+Tn45frv9OsfYjBGM2T7mib+5P9d/q397ADMgPWBLQHugWSA3sDrwcZBFED9oR9Bzlh0rm7WH9SrYJVgafDj4PduXPZvdFIKFhIeUhrSE6oQmha4PfRhmHpYVVhvWE+4RPjO8KYIQERWxMuIWx5jD49RweiK9ImdHno6iRiVErY96HG0fLY1uHIuOjRy7euz9GKsYcUx9LIjlxK6OfRBnE5cf9+s44ri4cVXjnsWPjp8Vfy6BnjAlYXfCu8TgxOWJ95Jsk+RJzcmayROTa5Lfp4SkrEppHz9q/Ozxl1INU0WpDWmktOS0HWm9E0InrJnQMdFjYsnEm5NsJk2fdGGy4eTcycemaE7hTjmUTkhPSd+d/okby63m9mZwMjZk9PDYvLW8l/wgfjm/S+AvWCV4numfuSqzM8s/a3VWlzBQWCHsFrFF60WvsyOyN2e/z4nN2ZkzkJuSuz9PLS8974hYR5wjPj3VZOr0qW0SB0mJpD3fN39Nfo80SrpDhsgmyRoKdOGh/rLcVv6D/FFhQGFVYd+05GmHpmtPF0+/PMN+xpIZz4vCin6aic/kzWyeZTZr/qxHs1mzt85B5mTMaZ5rMXfh3I554fN2zafMz5n/W7FL8arivxakLGhcaLxw3sInP4T/UFuiUSItubXIb9Hmxfhi0eKWJW5L1i35UsovvVjmUlZR9mkpb+nFH0f/WPnjwLLMZS3LPZdvWkFcIV5xc2Xgyl2rtFcVrXqyeuzqunJmeWn5X2umrLlQ4V6xeS1lrXxte2V0ZcM6y3Ur1n1aL1x/oyq4av8Gow1LNrzfyN94dVPQpn2bjTeXbf64RbTl9tbwrXXV1tUV24jbCrc92568/dxP3j/V7DDcUbbj807xzvZd8btO13jV1Ow22r28Fq2V13btmbindW/I3oZ9Tvu27mfsLzsADsgPvPg5/eebB6MONh/yPrTvF6tfNhymHy6tQ+pm1PXUC+vbG1Ib2o5EHmlu9Gs8/KvzrzuPmh2tOqZ3bPlxyvGFxwdOFJ3obZI0dZ/MOvmkeUrzvVPjT10/Pe50y5moM+fPhp09dY517sR5//NHL/heOHLR+2L9Jc9LdZc9Lh/+zeO3wy2eLXVXvK40tPq0NraNaTt+NfDqyWsh185e51y/dCPmRtvNpJu3b0281X6bf7vzTu6d13cL7/bfm3efcL/0gdaDiodGD6t/t/t9f7tn+7FHIY8uP054fO8J78nLp7KnnzoWPqM9q3hu+rym07XzaFdYV+uLCS86Xkpe9neX/KH9x4ZXtq9++TPoz8s943s6XktfD7xZ+tbg7c6/3P9q7o3rffgu713/+9I+g75dH7w/nPuY8vF5/7RPpE+Vn+0+N36J+nJ/IG9gQMKVcgePAhhsaGYmAG92AkBLhWcHeG+jTFDeBQcFUd5fBxH4T1h5XxwUTwB2BgGQNA+AaHhG2QSbFcRU2CuO8IlBAHVzG24qkWW6uSptUeFNiNA3MPDWGABSIwCfpQMD/RsHBj5vh8HeAaApX3kHVQgR3hm2OCtQa8cr8L0o76ff5Ph9DxQRuIPv+38Ba+6PcQ1jYnAAAABsZVhJZk1NACoAAAAIAAQBGgAFAAAAAQAAAD4BGwAFAAAAAQAAAEYBKAADAAAAAQACAACHaQAEAAAAAQAAAE4AAAAAAAAAkAAAAAEAAACQAAAAAQACoAIABAAAAAEAAABAoAMABAAAAAEAAAA+AAAAAGqZ9RgAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAgwSURBVGgF7VlpTFRXFD7DDLMw7IKICAhCEcQVN2qjota6t0njUv3RxEarv5rU2pj+6Y/+qUm3tEljYtLVNmmjsYvRWNtaFRsbBAzWBUEFREAQZZFthoGe7+KMVGbeu2/eTAKBY57zuPfce8/93rlnu4Z+JhrFFDKK9y62PgbAmAaMcgTGjsAoVwAa04AxDRjlCJiG0/7vtT2kjL3bqNflCohYcRFR9M76bbR72Ys+5xtWNqCvv8+noP52GAzKW1Tu9XdVP8Y5e3uptKqCApWZhPDGY+2RlB6fqCjNsDkCnY4e+uLsCXL1uSjUaCRsQA+ZTaGUk5RKK3PnKk4zbABwSxlqNNG8tCxKGZfgbvLr18Qg5k5KUx0bVAD6+vrI4epVFQIMLZ2PqLOnm8LMFtq1bANtnL9UGMNe1gh/KMRgIGiBGgUNAJQZah820elrpWoyEIC6fb+BrtZXe3idDFzRretUca/W06blJcIaRi/kziO71aY4LGgAwKJjA7u++lhRgMGdBv5qyTHxFGMPZ23ooW/O/0ZfF54czCL9nsbGL29ylioA+iyNgjgu/qqnr19S4BjaZQoxUjYbrpkpGUM7NbbAkBokxgQNACcHM9/9/buECE9YQkJCKC4imuLCo+hBRxvVtTQ/6dTwZg01U9aEZLJbrKqjgnYE3CtjU+lxiWTkL6JGMFqJ0bHC+FU21lHx7XLhDhHRxdgj1IZ7+qPC7LRm5kKKDgv3tPl6CRoAjl6nWNPMbu3ttZspwmr3JYOnHWAlxcRRP/9r7+qkh+wZAMhri9dSzsRUD5/ai4U1APwyoAcFAMTyR4rOii9pNploamKq1Ndwb6zy3l2qb7lPRgZkSnwS7ViyluIjo93dAf0NCgAwgGfLywg+vL+3n949+iVHd/JLwYU2tbewETOwFbcGbfNAUl4qLbiz+XUnNsIbXNPmDdxLwSbAMwSTAu4F8PVqmhupuvmebrmtoaG0JGuW7nmUJgg4APjyV+5W0VV+9BLc2fPT8/ROozg+KEcAMX2X00GTYsfT4qzpigIodUbZ7DQhKkaJRXdfwAFAPt/FqS3S2dykyfT+pp1+CwkvECnhPv1egAdKA3Ck6AwhulMjh8tJn5w8LHx5Y3sr/XGlRG2IACs9IZHmcuwukiAOgGru+2dDwjn5WTktj8x8fGTIwEZL6nY49c0t9Ki7S2ZOVv8eruz0Cwsuk5Ja2NhtzV9B+zftoJKqSnrj0GdU3nBHaq3BTJG2MNq5dD29tXojhUqkwhgrpQEtHe3U6egWz+AF1d4RB/Q61LUGVSB8eQRQNxpq6NKdSgGg2vxP94dzzJA+PlF68xgv5QUOnP5VpKdPLxiov2Hsti9e5ZlOUik9/INftI6V0gCEpnBviOtNHNoqUY/TyQWOga9uU8nGutlToBiC2H1mcgbhb9QGQTCAaJclGN1k9jrJ48bLDhF8yrthFgiIB7RpQQEtz5kj3r39BxX+9NQRulx7mxKjYum9l7fzRrxHcvAUH5z4QVSCjMYBRYT7/JaLIKjn5XFdcBefZ1kCYNj8wik5skMEnyoA9a3NVPOgiVCtyeYMa/k03wAgA/z+wilRi9uzZjOtnD7PpzDt3Z108K9jwlDOSckUfE7WnNKaSrKwAVuRM5u2LFxGKJe3dD3yOY+7A8UPK9cTtZIqAMVcqz9fcVnMe7T4HF2tq/K5BjSlvP6uMGY/lRRSaXWFT14YPdQMwywW2lGwTvC5b4RQyHh10SpRIr9ce4s+//Nnn/O4O8LMVlo9Yz4/C9xNUr+qAAye5SL7ZzwyVFh+mQppADglfhQvQACkpOqGuBjBeYZL62Z7cvLfi1KVpdS4BNrLWqeVVL1ARUOt1jml+XGsom3hIuVFERQFULhE1BCg0og7vpcsq5lCTDSOb4K0kioAB07/onVOaX5xCZKeTRnxEz1jEDjN5zaAgMoQ4g8ZYiz9ItUjAMOHR416HA46e6NMGMuJXNaSKWEBgKXZsyiKtaCCXS2KIDZ2fRtmP8sGzUouDsBAAAW3RWE+3Koop8fGs0FV/Z5DtqEKwIdbdg8Z5K0Bwi/fv0dY8H1rt3IeP8Mb2//aIDiCIESMl6orOYWuFv4fTPAoF25eE8cgki859q3bSqkK12VWs1k6/h8shCoAmRMmDeb3+o7oq7WzQ/ShsBnPVdyrddVeeb01wtWdqyijTs4hnklIEoXRLtaoU2wA29hdTuCYAkYuM0FdFm/zK7WpAqA02N2HstdhzhZBCHBQA9RCALCNAUT5KysxhabzpWbf4xQNMcGizFxxV6BlTlnegAAAY1XMLgyEzZTXa8/kMBahbziru91io5tNdVTF94XIFPMzpmm6F8BcsqTdavicWSqr9jkaHTDk0RwXuDjvuNVYL+yC4oAAdOoGQHxxzt2buPihl2wcyr405zmhRR2cF+D8j+NrMlx0Bot0HwEAUHTzuqgCI4l5vWA9l8LS/JIXRdD57O76YFS7O4RHSOEMLz9DW4KjZXH9APD5b+NrrB52W1PZgL2Sv5ymTZysRQYPL44ASlkP2P8fOn9KXIzYOFfQci/omUzyRTcASICQ2UETWrs66KPjP2rK473JibpACSdhiBOM/oZ43ib20qYbgIa2B3TwzDExdWPrQzpe9o+XZbQ3AQQkRAXZvtNv7bMOHaEbAAcHMY1tLWJmUQN8XA0aupT2Fluoha+5taW3WlfR7QUGnJfWZeX4cQSsDEIwSTcAPayqI5mk7wVG8iaVZNetAUqTj4S+MQBGwlcKpoxjGhBMdEfC3GMaMBK+UjBl/A8Zn8PUbQDO3wAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="823" y="55.13" width="24" height="23.25" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-241" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=0;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="50" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-243" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Center_for_SAP.svg;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="35.99999999999999" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-244" value="电子仓单融资" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="980" y="81.29" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-245" value="保对仓业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="980" y="101.14" width="80" height="15.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-251" value="产品管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="55.64" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-262" value="产品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="120.14" width="50" height="15.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-263" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=0;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="49.3" width="245" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-265" value="授信申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="81.8" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-266" value="融资管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="104.99999999999999" width="80" height="15.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-267" value="业务管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="58.3" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-268" value="流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1316" y="123.14999999999999" width="50" height="15.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-276" value="未来货权融资" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="81.29" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-277" value="存货融资" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="101.29" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-278" value="用款申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="81.8" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-279" value="还款管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="104.99999999999999" width="80" height="15.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-281" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=0;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="49.3" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-283" value="企业评级体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="84.3" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-284" value="流程风险检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="104.14999999999999" width="80" height="15.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-285" value="风控预警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="58.64999999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-286" value="风控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="123.14999999999999" width="50" height="15.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-287" value="企业额度管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="84.3" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-288" value="风险预警模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1612" y="104.3" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-289" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/User_Settings.svg;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="40.129999999999995" width="26" height="21.76" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-290" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Watcher.svg;" vertex="1" parent="1">
+          <mxGeometry x="1582.5" y="42.129999999999995" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-gDNM5G--wo878solXUZ-291" value="资产监管层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="860" y="75.9" width="100" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
