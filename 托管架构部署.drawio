@@ -113,6 +113,12 @@
         <mxCell id="0Vkvbfkp-Pfh3b7VRJ7F-44" value="&lt;div style=&quot;text-align: left;&quot;&gt;经营分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="246.5" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="0Vkvbfkp-Pfh3b7VRJ7F-50" value="过渡路由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Vkvbfkp-Pfh3b7VRJ7F-51" value="过渡批量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
